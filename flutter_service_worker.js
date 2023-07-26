@@ -3,10 +3,21 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "24b1b6731965dde9ea7d50d11338c752",
-"assets/AssetManifest.json": "173943542d7656661e9cee8c5f9b70ae",
+const RESOURCES = {"assets/AssetManifest.bin": "91be8fd43166c384cce33ef170bde1e5",
+"assets/AssetManifest.json": "b069bad6516b79ead94c7a3ccf3da3f7",
+"assets/assets/fonts/NotoSansMyanmar-Black.ttf": "8d272650c5faa744716837e1a8fde4bb",
+"assets/assets/fonts/NotoSansMyanmar-Bold.ttf": "efd3fa6f032c5adbf69a43860279fa9f",
+"assets/assets/fonts/NotoSansMyanmar-ExtraBold.ttf": "993d0ce2184d70cd45ec57a90622f2d7",
+"assets/assets/fonts/NotoSansMyanmar-ExtraLight.ttf": "9dfeadf10d9fb4a366f3419e70cf6c34",
+"assets/assets/fonts/NotoSansMyanmar-Light.ttf": "20c41340e60e018b55918fd36cd2365d",
+"assets/assets/fonts/NotoSansMyanmar-Medium.ttf": "dd98323a0f8aa9b873b3fec22a5be47e",
+"assets/assets/fonts/NotoSansMyanmar-Regular.ttf": "3c1e968f38c486b824675f4971a9ad1e",
+"assets/assets/fonts/NotoSansMyanmar-SemiBold.ttf": "b0dc530fa75f0f4ea97561d7b32b3965",
+"assets/assets/fonts/Padauk-Bold.ttf": "81c7bd5bddb3e62d5ebf10401558cd3d",
+"assets/assets/fonts/Padauk-Regular.ttf": "e6bee398ca1ae35fa73df29f4bcc7ce6",
+"assets/assets/images/fail.png": "d21b25e6bc22b9748b3bd961ca510081",
 "assets/assets/images/success.png": "cf286264fd330bbab7ca1e0574327b82",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/FontManifest.json": "5b212e6ca6905df40420651f238b4b30",
 "assets/fonts/MaterialIcons-Regular.otf": "7da3fa5921d2093b3b65b0dd0e35fdfa",
 "assets/NOTICES": "16e4a1ef42e3eb4fa9321c76742350d4",
 "assets/packages/awesome_dialog/assets/flare/error.flr": "e3b124665e57682dab45f4ee8a16b3c9",
@@ -39,9 +50,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "24b1b6731965dde9ea7d50d11338c752
 "icons/icon-512.png": "cee64ef6b721dc81c6a09eac098fe037",
 "icons/Icon-maskable-192.png": "41e24e87b4ce83b8aa47a2480e573e74",
 "icons/icon-maskable-512.png": "3d5b40e2e5bd4274971b70b6a9a35c0e",
-"index.html": "030c7fba1cd1fa7ee821e593c3493f4e",
-"/": "030c7fba1cd1fa7ee821e593c3493f4e",
-"main.dart.js": "20a5bf04bdcf11342de2a554dad307fc",
+"index.html": "80db0f68479f46bdece15e30f151bea2",
+"/": "80db0f68479f46bdece15e30f151bea2",
+"main.dart.js": "c82acf0e11c4ccc9c3469fea8ada346b",
 "manifest.json": "f459b589b2a185745e7e3354c71095ad",
 "version.json": "3528d3ab27eac1056a5a74a5f1715bc4"};
 // The application shell files that are downloaded before a service worker can
